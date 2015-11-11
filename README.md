@@ -1,14 +1,17 @@
 # gossip
 
-A Clojure library designed to ... well, that part is up to you.
+Exploratory code towards understanding the propagation of news in a large game world; see
+[The Spread of Knowledge in a Large Game World][The spread of knowledge in a large game world] and [Of pigeons, and long distance messaging in a game world][http://blog.journeyman.cc/2013/10/of-pigeons-and-long-distance-messaging.html][.
 
 ## Usage
 
-FIXME
+Doesn't work at all yet.
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2015 Simon Brooke
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
