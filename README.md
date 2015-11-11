@@ -1,7 +1,7 @@
 # gossip
 
 Exploratory code towards understanding the propagation of news in a large game world; see
-[The Spread of Knowledge in a Large Game World][The spread of knowledge in a large game world] and [Of pigeons, and long distance messaging in a game world][http://blog.journeyman.cc/2013/10/of-pigeons-and-long-distance-messaging.html][.
+[The spread of knowledge in a large game world](http://blog.journeyman.cc/2008/04/the-spread-of-knowledge-in-large-game.html) and [Of pigeons, and long distance messaging in a game world](http://blog.journeyman.cc/2013/10/of-pigeons-and-long-distance-messaging.html).
 
 ## Usage
 
